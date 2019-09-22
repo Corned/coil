@@ -1,5 +1,5 @@
 # coiljs
 
-Refactored.
+Solves the first 100 levels with ease.
 
-You figure out how to use it.
+http://www.hacker.org/coil/
